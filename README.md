@@ -1,8 +1,7 @@
 ### Hi there, I'm a software developer and Ethical Hacker. Writing code and having an impact to others is the sauce of my life.
 
-![](https://fato07.github.io/home/)
+![My WebSite](https://fato07.github.io/home/)
 - 🔭 I’m currently in my final year of my masters degree in cyber security 
-
 I am always learning and improving myself..
 
 ### Languages and Tools
